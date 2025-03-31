@@ -1,10 +1,10 @@
-Big Mart Sales Data Analysis
+# Big Mart Sales Data Analysis
 
-Project Overview
+# Project Overview
 
 This project analyzes the Big Mart sales dataset using Python and machine learning techniques. The goal is to preprocess the data, handle missing values, and train predictive models to estimate sales.
 
-Dataset
+# Dataset
 
 The dataset used is Train.csv, containing sales-related attributes such as:
 
@@ -32,7 +32,7 @@ Outlet_Type
 
 Item_Outlet_Sales
 
-Libraries Used
+# Libraries Used
 
 pandas
 
@@ -46,7 +46,7 @@ sklearn
 
 xgboost
 
-Data Preprocessing
+# Data Preprocessing
 
 Handled missing values in Item_Weight using forward fill.
 
@@ -64,7 +64,7 @@ Machine Learning Models
 
 XGBoost Regressor: Advanced model for improved accuracy.
 
-Results
+# Results
 
 Successfully handled missing values.
 
